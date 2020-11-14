@@ -1,4 +1,5 @@
 ## What is IP-Tracer ?
+*`Note: This repository of IP-Tracer is a fixed version of Rajkumardusad's https://github.com/rajkumardusad/IP-Tracer.git. Several bugs including one which kept on deleting the directory after use was fixed. All other main credits goes to him.`
 
 IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and Linux based systems. you can easily retrieve ip address information using IP-Tracer. IP-Tracer use ip-api to track ip address.
 
@@ -13,11 +14,13 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 * `apt install git -y`
 
-* `git clone https://titancomputinglegend/iptracer`
-
-* `unzip IP-Tracer-master.zip
+* `git clone https://titancomputinglegend/iptracer.git`
 
 * `cd iptracer`
+
+* `unzip IP-Tracer-master.zip`
+
+* `cd IP-Tracer-master`
 
 * `chmod +x install`
 
